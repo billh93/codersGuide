@@ -1,0 +1,9 @@
+Images Source:
+1.) ASP.Net Logo: https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Asp.net.svg/800px-Asp.net.svg.png
+2.) C Programming Logo: http://engineeringjugaad.com/wp-content/uploads/2015/08/cprograming.png
+3.) Java Logo: https://www.connectinternetsolutions.com/wp-content/uploads/2016/02/Java-800x500.png
+4.) Javascript Logo: http://static3.fabvana.com/images/article/l/2015/02/2015-02-8faf72bf298dc2a734ab6e46e2d78600-1.jpg
+5.) PHP Logo: http://www.samnads.com/blog/wp-content/uploads/2015/07/php.jpg
+6.) Python Logo: http://thecads.org/assets/img/modules/work3.jpg
+7.) Ruby Logo: http://www.tinitiate.com/radius/images/tn/ruby.png
+8.) Swift Logo: http://www.marcopace.it/wp-content/uploads/2016/01/swift-logo-800x500.jpg
