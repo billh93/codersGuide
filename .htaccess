@@ -1,1 +1,12 @@
+RewriteEngine on
 ErrorDocument 404 /404.php
+RewriteCond %{HTTP_REFERER} !^http://billhinostroza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://billhinostroza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://codersguide.billhinostroza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://codersguide.billhinostroza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.billhinostroza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.billhinostroza.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.codersguide.billhinostroza.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.codersguide.billhinostroza.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+

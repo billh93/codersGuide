@@ -14,7 +14,7 @@
 	        <header class="jumbotron hero-spacer">
 	            <h1>What language should I learn?</h1>
 	            <p>
-		            In todays technological world their are over 500 programming languages and over 50 that are being commonly used. 
+		            In todays technological world there are over 500 programming languages and over 50 that are being commonly used. 
 		            However, as a beginner you don't know what language to learn? We will break down the top 8 languages you should learn, what they do, who uses 
 		            them and how much does a developer with that skillset get paid on average.
 	            </p>
